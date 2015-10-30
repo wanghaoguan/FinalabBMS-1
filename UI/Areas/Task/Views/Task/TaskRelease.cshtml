@@ -140,8 +140,10 @@
                         <input id="slt-members-option-10005" value="10002" type="hidden" />
                         <input id="slt-members-option-10006" value="10003" type="hidden" />
                         <input id="slt-members-option-10007" value="10004" type="hidden" />
-                        <input id="slt-members-option-10008" value="@listProjectInfo[0].ProjId" type="hidden" />
-
+                        @if (listProjectInfo.Count != 0)
+                        {
+                            <input id="slt-members-option-10008" value="@listProjectInfo[0].ProjId" type="hidden" />
+                        }
                         <select onchange="ChangeSltMembers(this.options[this.selectedIndex].value)" id="slt-members" name="sltMembers" class="short_text">
                             <option value="10001">所有成员</option>
                             <option value="10002">实习生</option>

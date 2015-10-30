@@ -313,10 +313,20 @@ namespace Task.Controllers
                                   StuNum = m.StuNum
                               }).ToList();
             }
-            else if ((membersType == 10002 || membersType == 10003)
+            else if ((membersType == 10003)
                 && (listTaskType.Select(tt => tt.TaskTypeId == 10004).ToList().Count > 0))
             {
-                listMember = (from m in iBLLSession.IMemberInformationBLL.GetListBy(m => m.TechnicalLevel == id)
+                listMember = (from m in iBLLSession.IMemberInformationBLL.GetListBy(m => m.TechnicalLevel == 10004)
+                              select new MODEL.ViewModel.Task.TaskReleaseMember()
+                              {
+                                  StuName = m.StuName,
+                                  StuNum = m.StuNum
+                              }).ToList();
+            }
+            else if ((membersType == 10002 )
+            && (listTaskType.Select(tt => tt.TaskTypeId == 10004).ToList().Count > 0))
+            {
+                listMember = (from m in iBLLSession.IMemberInformationBLL.GetListBy(m => m.TechnicalLevel == 10003)
                               select new MODEL.ViewModel.Task.TaskReleaseMember()
                               {
                                   StuName = m.StuName,

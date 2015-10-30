@@ -8,3 +8,13 @@ F:\实验室网站\FinalabBMS\IBLL\bin\Debug\zh-Hans\EntityFramework.resources.d
 F:\实验室网站\FinalabBMS\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
 F:\实验室网站\FinalabBMS\IBLL\obj\Debug\IBLL.dll
 F:\实验室网站\FinalabBMS\IBLL\obj\Debug\IBLL.pdb
+E:\FinalabBMS-1\IBLL\bin\Debug\IBLL.dll
+E:\FinalabBMS-1\IBLL\bin\Debug\IBLL.pdb
+E:\FinalabBMS-1\IBLL\bin\Debug\MODEL.dll
+E:\FinalabBMS-1\IBLL\bin\Debug\EntityFramework.dll
+E:\FinalabBMS-1\IBLL\bin\Debug\MODEL.pdb
+E:\FinalabBMS-1\IBLL\bin\Debug\EntityFramework.xml
+E:\FinalabBMS-1\IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\FinalabBMS-1\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+E:\FinalabBMS-1\IBLL\obj\Debug\IBLL.dll
+E:\FinalabBMS-1\IBLL\obj\Debug\IBLL.pdb

@@ -3,3 +3,8 @@ F:\实验室网站\FinalabBMS\UI\bin\Login.pdb
 F:\实验室网站\FinalabBMS\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
 F:\实验室网站\FinalabBMS\Login\obj\Debug\Login.dll
 F:\实验室网站\FinalabBMS\Login\obj\Debug\Login.pdb
+E:\FinalabBMS-1\UI\bin\Login.dll
+E:\FinalabBMS-1\UI\bin\Login.pdb
+E:\FinalabBMS-1\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\FinalabBMS-1\Login\obj\Debug\Login.dll
+E:\FinalabBMS-1\Login\obj\Debug\Login.pdb

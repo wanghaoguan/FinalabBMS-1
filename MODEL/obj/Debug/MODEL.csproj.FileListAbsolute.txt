@@ -7,3 +7,11 @@ F:\实验室网站\FinalabBMS\MODEL\bin\Debug\zh-Hans\EntityFramework.resources.
 F:\实验室网站\FinalabBMS\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
 F:\实验室网站\FinalabBMS\MODEL\obj\Debug\MODEL.dll
 F:\实验室网站\FinalabBMS\MODEL\obj\Debug\MODEL.pdb
+E:\FinalabBMS-1\MODEL\bin\Debug\MODEL.dll.config
+E:\FinalabBMS-1\MODEL\bin\Debug\MODEL.dll
+E:\FinalabBMS-1\MODEL\bin\Debug\MODEL.pdb
+E:\FinalabBMS-1\MODEL\bin\Debug\EntityFramework.dll
+E:\FinalabBMS-1\MODEL\bin\Debug\EntityFramework.xml
+E:\FinalabBMS-1\MODEL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\FinalabBMS-1\MODEL\obj\Debug\MODEL.dll
+E:\FinalabBMS-1\MODEL\obj\Debug\MODEL.pdb
