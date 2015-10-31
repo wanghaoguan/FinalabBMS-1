@@ -1,2 +1,0 @@
-F:\实验室网站\FinalabBMS\UI\obj\Release\UI.csprojFakesResolveAssemblyReference.cache
-F:\实验室网站\FinalabBMS\UI\obj\Release\UI.csprojResolveAssemblyReference.cache
